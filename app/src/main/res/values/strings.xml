@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Base Converter</string>
+    <string name="reset">Reset</string>
+    <string-array name="choices">
+        <item>Select</item>
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hex</item>
+    </string-array>
+</resources>
